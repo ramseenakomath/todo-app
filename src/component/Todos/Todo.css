@@ -1,0 +1,68 @@
+.todo-container{
+  width: 90vw;
+  background-color: black;
+  color: white;
+  margin: 50px auto;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.header{
+  text-align: center;
+  font-size: 50px;
+}
+
+.input-container{
+  margin: 10px;
+  padding:10px;
+  background-color: black;
+  border: 2px solid aquamarine;
+  border-radius: 10px;
+}
+
+.input-box{
+  width: 80%;
+  margin: 20px auto;
+  padding: 15px;
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+  background-color: white;
+  border: 1px;
+  border-radius: 10px;
+}
+
+.add-btn{
+  margin: 10px;
+  padding: 15px;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: green;
+  color: white;
+  border: 1px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.list-container{
+  margin: 10px;
+  padding: 20px;
+  font-size: 20px;
+  background-color: black;
+  color: white;
+  border: 1px solid aquamarine;
+  border-radius: 5px;
+}
+
+.delete-btn{
+  margin: 0;
+  padding: 10px;
+  float: right;
+  font-size: 10px;
+  font-weight: bold;
+  background-color: red;
+  color: white;
+  border: 1px;
+  border-radius: 5px;
+  cursor: pointer;
+}
